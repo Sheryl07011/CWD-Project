@@ -1,0 +1,37 @@
+.main-header {
+    background: url(assets/ombre.jpg);
+    background-size: cover;
+    color: rgb(232, 144, 144);
+    }
+
+    .main-header2{
+        background: url(assets/ombre.jpg);
+    }
+.section-maker{
+        position: relative;
+        background: url(assets/bg1.jpg);
+        min-height: 175px;
+        background-size: cover;
+        background-position: center;
+    }
+
+.container-drink{
+    background-color: rgb(250, 175, 223);
+}
+
+.container-food{
+    background-color: rgb(250, 175, 223);
+}
+
+.section-foodbg{
+    background: url(assets/bg1.jpg);
+}
+
+.section-bevs{
+    background: url(assets/cof111.jpg);
+    min-height: 175px;
+}
+
+.main-header3 {
+    background: url(assets/ombre.jpg);
+}
